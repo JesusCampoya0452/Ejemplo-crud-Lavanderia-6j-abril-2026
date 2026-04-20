@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.act8_frmcliente"
+    namespace = "crudLavanderia"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
